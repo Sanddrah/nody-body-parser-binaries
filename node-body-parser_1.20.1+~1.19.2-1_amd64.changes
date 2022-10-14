@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Wed, 12 Oct 2022 18:01:51 +0000
+Source: node-body-parser
+Binary: node-body-parser
+Architecture: source all
+Version: 1.20.1+~1.19.2-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Changed-By: sandra uwah <sandrauwah282@gmail.com>
+Description:
+ node-body-parser - body parsing middleware - Node.js module
+Changes:
+ node-body-parser (1.20.1+~1.19.2-1) unstable; urgency=medium
+ .
+   * Team upload
+   * New upstream version 1.20.1+~1.19.2
+   * bumped up standard version to 4.6.1.0
+   * update copyright to 2022
+   * Fix lintian override error
+Checksums-Sha1:
+ ff35a3ce0af97b5a1842ffce7debf2cd51fa103f 1963 node-body-parser_1.20.1+~1.19.2-1.dsc
+ aea2059e28b7658639081347ac4fab3de166e6f0 2960 node-body-parser_1.20.1+~1.19.2.orig-types-body-parser.tar.gz
+ b72a64218a05042695001bb1fcf48cf9a88f0c60 24597 node-body-parser_1.20.1+~1.19.2.orig.tar.gz
+ 2787144eb81a7b0e7c8fcef952a1e01d58061437 3784 node-body-parser_1.20.1+~1.19.2-1.debian.tar.xz
+ dd538517de542a172ba7ae87a24c3e3d9a9f361f 19328 node-body-parser_1.20.1+~1.19.2-1_all.deb
+ ba8cbdc25cf2f7644ea11e87ddcab0e488247318 12194 node-body-parser_1.20.1+~1.19.2-1_amd64.buildinfo
+Checksums-Sha256:
+ 58ae08d36fd8bc1de41859b72f75288b00ef5cbe594ceaadd4d92dd1cfd4540c 1963 node-body-parser_1.20.1+~1.19.2-1.dsc
+ bbef4ddbfee80b8e696fa75500ec0f7816e10efc45d8b80d9c08034c26567ed8 2960 node-body-parser_1.20.1+~1.19.2.orig-types-body-parser.tar.gz
+ 6d4f50e93ba724a97e75be77fc4aaea72fb43a74fbad57aa12f5cf1256c333df 24597 node-body-parser_1.20.1+~1.19.2.orig.tar.gz
+ b3ddd235f920a589be0bf0242b8d71f698d01700fa8c86ad23cf50869de97fe4 3784 node-body-parser_1.20.1+~1.19.2-1.debian.tar.xz
+ 673440ff17aff21ff21139870885479bd0e249ccce670804808054178009becb 19328 node-body-parser_1.20.1+~1.19.2-1_all.deb
+ 16910f913a1df42531637d659befb3300581c158e1aa8404e5881160d655a0f8 12194 node-body-parser_1.20.1+~1.19.2-1_amd64.buildinfo
+Files:
+ 9e32f0a0ae1d1b1c555f158a19219e13 1963 javascript optional node-body-parser_1.20.1+~1.19.2-1.dsc
+ 321e303fbc86455ec21bf5656fed2e6c 2960 javascript optional node-body-parser_1.20.1+~1.19.2.orig-types-body-parser.tar.gz
+ 2cda38d16f326e30397627345f479d3e 24597 javascript optional node-body-parser_1.20.1+~1.19.2.orig.tar.gz
+ 87befa24fa0094d9d4bdd17ea378a6e3 3784 javascript optional node-body-parser_1.20.1+~1.19.2-1.debian.tar.xz
+ 6ccd7cda368ef06933b2b0e1d71be250 19328 javascript optional node-body-parser_1.20.1+~1.19.2-1_all.deb
+ af75118d8a61a597457bd09caeef6275 12194 javascript optional node-body-parser_1.20.1+~1.19.2-1_amd64.buildinfo
